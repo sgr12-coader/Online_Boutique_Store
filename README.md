@@ -1,0 +1,3 @@
+# Online_Boutique_Store
+# Our proposed “Smart Boutique” is for those who run a Boutique business.Before doing anything, we did a decent research on major difficulties for Boutique. We examined carefully about how to make a huge registering system without failure as well as different functions for different kind of user depending on their privilege.
+# The Boutique requires a system that will handle all the necessary and minute details easily and proper database security accordingly to the user. They require software, which will store data about members, employees, products, payroll, receipts of members & all transactions that occur in Boutique. 
